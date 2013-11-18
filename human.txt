@@ -1,4 +1,5 @@
 head
+1 tail
 2 hands
 2 legs
 
